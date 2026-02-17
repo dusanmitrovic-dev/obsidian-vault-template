@@ -10,4 +10,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Set up `.gitignore` to prevent polluting remote repository (#3).
 - Set up repository governance and GitHub templates (#4).
 - Initialize new Obsidian vault and implement PARA methodology (#5).
+- Implement inbox, dailies and system vault structure (#9).
 
