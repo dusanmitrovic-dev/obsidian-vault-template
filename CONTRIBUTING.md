@@ -1,4 +1,4 @@
-# Contributing to MainframeForge
+# Contributing to Obsidian Vault Starter Template
 
 ## Engineering Standards
 
@@ -9,7 +9,7 @@ We adhere strictly to Google's Style Guides.
 
 ### 2. Version Control Workflow
 Direct pushes to `main` branch are prohibited.
-1. **Branching:** Create branches using `type/description` (e.g., `feat/init-sequence`, `fix/mobile-layout`).
+1. **Branching:** Create branches using `type/issue-number-description` (e.g., `feat/1-init-sequence`, `fix/14-mobile-layout`).
 2. **Commits:** Follow [Conventional Commits](https://www.conventionalcommits.org/)
   - `feat:` New feature,
   - `fix:` Bug fix,
