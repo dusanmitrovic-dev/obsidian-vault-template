@@ -1,6 +1,17 @@
+<div align="center">
+
 # Obsidian Vault Starter Template
 
+[![Obsidian](https://img.shields.io/badge/Made_for-Obsidian-7a3ee8?style=flat-square&logo=obsidian)](https://obsidian.md/)
+[![GitHub stars](https://img.shields.io/github/stars/dusanmitrovic-dev/obsidian-vault-template?style=flat-square&color=7a3ee8)](https://github.com/dusanmitrovic-dev/obsidian-vault-template/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/dusanmitrovic-dev/obsidian-vault-template?style=flat-square&color=7a3ee8)](https://github.com/dusanmitrovic-dev/obsidian-vault-template/network)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/dusanmitrovic-dev/obsidian-vault-template?style=flat-square&color=7a3ee8)](https://github.com/dusanmitrovic-dev/obsidian-vault-template/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub closed PRs](https://img.shields.io/github/issues-pr-closed/dusanmitrovic-dev/obsidian-vault-template?style=flat-square&color=7a3ee8)](https://github.com/dusanmitrovic-dev/obsidian-vault-template/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub repo size](https://img.shields.io/github/repo-size/dusanmitrovic-dev/obsidian-vault-template?style=flat-square&color=7a3ee8)](https://github.com/dusanmitrovic-dev/obsidian-vault-template)
+
 *A clean, structured Obsidian vault starter template. Designed for clarity, precision, focus, and zero-friction organization.*
+
+</div>
 
 ### Features:
 - PARA methodology.
