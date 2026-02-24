@@ -18,4 +18,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changes
 - Refactor `README.md` typography, title, and overview text (#15).
 - Refactor contribution branch naming examples (#16).
+- Refactor `SECURITY.md` project name (#21).
 
