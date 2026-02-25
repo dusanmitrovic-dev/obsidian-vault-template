@@ -40,6 +40,7 @@ To use the template, you only need `vault/` directory.
 - `99.system/`    - Vault infrastructure (templates, scripts, metadata).
 
 ### Conventions
+- **Indexing:** `[00-99].` (e.g., `01.`).
 - **Naming Folders:** `snake_case`.
 - **Naming Files:** `kebab-case`.
 
