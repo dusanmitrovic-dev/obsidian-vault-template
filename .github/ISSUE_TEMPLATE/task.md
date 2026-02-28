@@ -34,6 +34,7 @@ If this is not a feature, change the title prefix and label:
 - Action step 3.
 
 ### Acceptance Criteria
+<!-- Add all specific criteria required to close this issue. -->
 - [ ] Criteria 1.
 - [ ] Criteria 2.
 - [ ] Documentation updated.

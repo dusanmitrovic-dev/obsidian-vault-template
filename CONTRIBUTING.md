@@ -9,13 +9,32 @@ We adhere strictly to Google's Style Guides.
 
 ### 2. Version Control Workflow
 Direct pushes to `main` branch are prohibited.
+
 1. **Branching:** Create branches using `type/issue-number-description` (e.g., `feat/1-init-sequence`, `fix/14-mobile-layout`).
+
 2. **Commits:** Follow [Conventional Commits](https://www.conventionalcommits.org/)
-  - `feat:` New feature,
-  - `fix:` Bug fix,
-  - `docs:` Documentation only,
-  - `style:` Formatting (no code change),
-  - `refactor:` Code change that neither fixes a bug nor adds a feature.
+
+**Commit types:**
+  - `feat:` New features.
+  - `fix:` Bug fixes.
+  - `docs:` Documentation updates.
+  - `chore:` Maintenance tasks.
+  - `refactor:` Restructuring code without behavior changes.
+  - `style:` Formatting adjustments (no code change).
+  - `build:` Build system or external dependency changes.
+  - `ci:` CI configuration files and scripts.
+  - `perf:` Performance optimizations.
+  - `test:` Adding or upgrading tests.
+
+**Format:**
+```
+<type>[optional scope]: <description>
+
+[optional body]
+
+[optional footer(s)]
+```
+
 3. **Pull Requests:** All changes must be reviewed and merged via PR.
 
 ### 3. Release Cycle
