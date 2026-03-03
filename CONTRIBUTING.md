@@ -25,6 +25,7 @@ Direct pushes to `main` branch are prohibited.
   - `ci:` CI configuration files and scripts.
   - `perf:` Performance optimizations.
   - `test:` Adding or upgrading tests.
+  - `revert:` Undoing the changes of a specific commit.
 
 **Format:**
 ```
@@ -34,6 +35,8 @@ Direct pushes to `main` branch are prohibited.
 
 [optional footer(s)]
 ```
+> [!IMPORTANT]
+> Append `!` to the type for breaking changes (e.g., `refactor(core)!: ...`).
 
 3. **Pull Requests:** All changes must be reviewed and merged via PR.
 
