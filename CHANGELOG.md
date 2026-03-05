@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Enhance `README.md` with status badges (#19).
 - Add indexing convention clause to the docs (#23).
 - Add revert commit type and breaking change contribution guide (#36).
+- Implement bash `install.sh` script for Linux OS (#32).
 
 ### Changes
 
