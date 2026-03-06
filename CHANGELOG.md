@@ -34,4 +34,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Typo `ethhumbs.db` in `.gitignore` (#24).
 - Task issue template missing commit types (#35).
+- Missing closing bracket in bash install script (#40).
 
