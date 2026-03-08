@@ -1,0 +1,19 @@
+# local workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace
+
+# local cache and history
+.obsidian/cache/
+.trash/
+
+# OS generated files (cross-platform)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ethhumbs.db
+Thumbs.db
+desktop.ini
+
