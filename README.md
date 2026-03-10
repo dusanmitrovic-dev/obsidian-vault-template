@@ -14,32 +14,47 @@
 </div>
 
 ### Features:
+
 - PARA methodology.
 - Inbox quick capture buffer.
 - Chronological daily ledger.
 - Optimized custom infrastructure.
 
 ### Quick Start
-To use the template, you only need `vault/` directory.
 
-1. Download stable release as `.zip` archive (recommended) or clone this repository.
-2. Extract to your local machine and rename `vault/` folder to your preference.
+To use the template, you only need the `vault/` directory.
+
+#### Linux
+
+```
+curl -sSL https://raw.githubusercontent.com/dusanmitrovic-dev/obsidian-vault-template/main/scripts/install.sh | bash
+```
+
+For advanced installer configuration options, please refer to the [Installation](https://github.com/dusanmitrovic-dev/obsidian-vault-template/wiki/installation) wiki page.
+
+#### Manually
+
+1. Download the stable release as a `.zip` archive (recommended) or clone this repository.
+2. Extract to your local machine and rename the `vault/` folder to your preference.
 3. Open Obsidian, select `Open folder as vault`, and target your newly extracted folder.
 
 ### Philosophy
+
 - **Precision:** Indexing (`00` - `99`) ensures structural stability.
 - **Atomic:** Each directory serves a singular, well-defined purpose.
 
 ### Directory structure
-- `00.inbox/`     - Quick capture buffer for unprocessed data.
-- `01.projects/`  - Active development with clear end states.
-- `02.areas/`     - Ongoing responsibilities (health, career, finance).
-- `03.resources/` - Knowledge base, snippets, and reference materials.
+
+- `00.inbox/`     - Quick capture buffer for unprocessed notes.
+- `01.projects/`  - Active work items with a specific goal.
+- `02.areas/`     - Ongoing responsibilities (e.g., health, finance).
+- `03.resources/` - Knowledge base and reference materials.
 - `04.archives/`  - Cold storage for completed efforts.
-- `05.dailies/`   - Chronological daily ledger and reflection.
-- `99.system/`    - Vault infrastructure (templates, scripts, metadata).
+- `05.dailies/`   - Chronological daily ledger and notes.
+- `99.system/`    - Vault infrastructure and automation.
 
 ### Conventions
+
 - **Indexing:** `[00-99].` (e.g., `01.`).
 - **Naming Folders:** `snake_case`.
 - **Naming Files:** `kebab-case`.
