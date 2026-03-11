@@ -1,11 +1,12 @@
 # local workspace state
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/workspace
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
+vault/.obsidian/workspace
 
 # local cache and history
-.obsidian/cache/
-.trash/
+vault/.obsidian/cache/
+vault/.obsidian/indexed-db/
+vault/.trash/
 
 # OS generated files (cross-platform)
 .DS_Store
@@ -13,7 +14,9 @@
 ._*
 .Spotlight-V100
 .Trashes
+Icon?
 ethhumbs.db
 Thumbs.db
 desktop.ini
+$RECYCLE.BIN/
 
