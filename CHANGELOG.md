@@ -12,4 +12,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initialize new Obsidian vault and implement PARA methodology (#5).
 - Implement inbox, dailies and system vault structure (#9).
 - Document philosophy, directory structure, and convention sections (#11).
+- Add MIT license to the repository (#13).
 
