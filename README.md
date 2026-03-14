@@ -1,12 +1,19 @@
-# obsidian-vault-template
+# Obsidian Vault Starter Template
 
-### A clean, structured Obsidian vault template using the PARA methodology. Designed for clarity, focus, and zero-friction organization.
+*A clean, structured Obsidian vault starter template. Designed for clarity, precision, focus, and zero-friction organization.*
 
 ### Features:
 - PARA methodology.
 - Inbox quick capture buffer.
 - Chronological daily ledger.
 - Optimized custom infrastructure.
+
+### Quick Start
+To use the template, you only need `vault/` directory.
+
+1. Download stable release as `.zip` archive (recommended) or clone this repository.
+2. Extract to your local machine and rename `vault/` folder to your preference.
+3. Open Obsidian, select `Open folder as vault`, and target your newly extracted folder.
 
 ### Philosophy
 - **Precision:** Indexing (`00` - `99`) ensures structural stability.
