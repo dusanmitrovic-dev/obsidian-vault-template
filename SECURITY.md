@@ -8,7 +8,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within MainframeForge, please send an e-mail to **dusan.mitrovic.developer@gmail.com**.
+If you discover a security vulnerability within the Obsidian Vault Starter Template, please send an e-mail to **dusan.mitrovic.developer@gmail.com**.
 
 We will respond within 48 hours. **Do not open public issues for security exploits.**
 
