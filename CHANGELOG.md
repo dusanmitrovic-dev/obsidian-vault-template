@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add MIT license to the repository (#13).
 - Implement Quick Start section (#15).
 - Enhance `README.md` with status badges (#19).
+- Add indexing convention clause to the docs (#23).
 ### Changes
 - Refactor `README.md` typography, title, and overview text (#15).
 - Refactor contribution branch naming examples (#16).
