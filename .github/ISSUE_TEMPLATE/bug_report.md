@@ -1,26 +1,39 @@
 ---
 name: Bug Report
-about: Report a system defect or error
-title: 'Fix: '
-labels: fix
+about: Report a system defect, error or typo
+title: 'fix: '
+labels: fix, docs
 assignees: ''
 ---
 
 ### Context
-<!-- What were you trying to do? -->
+<!-- Describe the background of the problem (e.g., "While reading README..."). -->
+<!-- (Optional) Use the block below for visual context: -->
+<!--
+<details>
+  <summary>Expand for visual context</summary>
+  [Paste image or logs here]
+</details>
+-->
 
 ### Observed Behavior
-<!-- What actually happened? (Include screenshots/logs) -->
+<!-- What is currently written or happening? -->
 
 ### Expected Behavior
-<!-- What should have happened? -->
+<!-- What should happen or be written instead? -->
 
 ### Reproduction Steps
+<!-- (Optional) Provide steps to reproduce if applicable. -->
 1. Go to '...'.
 2. Click on '...'.
 3. Error appears.
 
+### Acceptance Criteria
+- [ ] The reported problem is resolved.
+- [ ] Documentation updated.
+
 ### Environment
+<!-- (Optional) Provide only if the issue is related to Obsidian's app behavior. -->
 - **OS:** [e.g. Arch Linux].
-- **Browser:** [e.g. Chrome 98].
+- **Obsidian Version:** [e.g. 1.12.4].
 
