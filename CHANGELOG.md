@@ -25,6 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactor contribution branch naming examples (#16).
 - Refactor `SECURITY.md` project name (#21).
 - Refactor `CHANGELOG.md` readability (#25).
+- Adapt issue templates for Obsidian vault context (#26).
 
 ### Fixes
 
