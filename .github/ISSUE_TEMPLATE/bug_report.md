@@ -17,7 +17,7 @@ assignees: ''
 -->
 
 ### Observed Behavior
-<!-- What is currently written or happening? -->
+<!-- What is currently happening or written? -->
 
 ### Expected Behavior
 <!-- What should happen or be written instead? -->
@@ -29,6 +29,7 @@ assignees: ''
 3. Error appears.
 
 ### Acceptance Criteria
+<!-- Add all specific criteria required to close this issue. -->
 - [ ] The reported problem is resolved.
 - [ ] Documentation updated.
 
