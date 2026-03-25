@@ -8,10 +8,14 @@ assignees: ''
 
 <!--
 If this is not a feature, change the title prefix and label:
-- config: Plugin settings, GitHub config, metadata.
 - docs: Documentation updates.
-- refactor: Restructuring folders/files.
-- style: Formatting fixes.
+- chore: Maintenance tasks.
+- refactor: Restructuring code without behavior changes.
+- style: Formatting adjustments (no code change).
+- build: Build system or external dependency changes.
+- ci: CI configuration files and scripts.
+- perf: Performance optimizations.
+- test: Adding or upgrading tests.
 -->
 
 ### Context
