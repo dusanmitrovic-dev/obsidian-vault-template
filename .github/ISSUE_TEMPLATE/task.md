@@ -16,6 +16,7 @@ If this is not a feature, change the title prefix and label:
 - ci: CI configuration files and scripts.
 - perf: Performance optimizations.
 - test: Adding or upgrading tests.
+- revert: Undoing the changes of a specific commit.
 -->
 
 ### Context
