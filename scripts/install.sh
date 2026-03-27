@@ -69,6 +69,7 @@ main() {
 
   mv "$vault_src" "./${name}" || error "Failed to move vault to target directory."
   success "Installed ${tag} to ./${name}"
+}
 
 main "$@"
 
