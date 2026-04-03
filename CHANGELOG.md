@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Dynamic release version badge (#46).
+
 ## [v0.1.0] - 2026-03-31
 
 ### Added
