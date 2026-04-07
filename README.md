@@ -20,6 +20,7 @@
 - Inbox quick capture buffer.
 - Chronological daily ledger.
 - Optimized custom infrastructure.
+- Automated note and attachment routing.
 
 ### Quick Start
 
@@ -49,7 +50,7 @@ For advanced installer configuration options, please refer to the [Installation]
 - `00.inbox/`     - Quick capture buffer for unprocessed notes.
 - `01.projects/`  - Active work items with a specific goal.
 - `02.areas/`     - Ongoing responsibilities (e.g., health, finance).
-- `03.resources/` - Knowledge base and reference materials.
+- `03.resources/` - Knowledge base, reference materials, and attachments.
 - `04.archives/`  - Cold storage for completed efforts.
 - `05.dailies/`   - Chronological daily ledger and notes.
 - `99.system/`    - Vault infrastructure and automation.
