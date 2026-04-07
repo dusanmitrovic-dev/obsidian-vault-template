@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "00.inbox"
+  "newFileFolderPath": "00.inbox",
+  "attachmentFolderPath": "03.resources/00.attachments"
 }
 
