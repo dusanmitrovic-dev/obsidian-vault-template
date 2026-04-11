@@ -10,9 +10,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Dynamic release version badge (#46).
 - Automated latest tag workflow (#48).
-- Implemented inbox buffer logic for new notes (#50).
+- Implement inbox buffer logic for new notes (#50).
 - Implement directory where attachments will be routed (#52).
-- Add daily notes configuration ($54).
+- Implement daily notes configuration (#54).
+- Implement templates configuration (#56).
 
 ## [v0.1.0] - 2026-03-31
 
