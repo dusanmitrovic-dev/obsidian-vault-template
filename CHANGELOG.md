@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement directory where attachments will be routed (#52).
 - Implement daily notes configuration (#54).
 - Implement templates configuration (#56).
+- Implement daily ledger template note (#58).
 
 ## [v0.1.0] - 2026-03-31
 
