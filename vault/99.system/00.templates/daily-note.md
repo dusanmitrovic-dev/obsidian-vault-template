@@ -1,5 +1,5 @@
 ---
-tags
+tags:
   - daily
 ---
 
@@ -16,7 +16,9 @@ tags
 
 ## References
 <!-- External sources and media. -->
+- 
 
 ## Inbox
 <!-- Links to notes created today. -->
+- 
 
