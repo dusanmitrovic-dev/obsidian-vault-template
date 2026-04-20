@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changes
+
+- Migrate installer endpoint to custom domain: `vault.mainframeforge.com` (#62).
+
+### Fixes
+
+- Enforce HTTPS protocol for branded installer endpoint (#64).
+
 ## [0.2.0] - 2026-04-19
 
 ### Added
@@ -18,10 +26,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement daily notes configuration (#54).
 - Implement templates configuration (#56).
 - Add daily ledger template note (#58).
-
-### Changes
-
-- Migrate installer endpoint to custom domain: `vault.mainframeforge.com` (#62).
 
 ## [0.1.0] - 2026-03-31
 
