@@ -29,7 +29,7 @@ To use the template, you only need the `vault/` directory.
 #### Linux
 
 ```
-curl -sSL https://raw.githubusercontent.com/dusanmitrovic-dev/obsidian-vault-template/latest/scripts/install.sh | bash
+curl -sSL vault.mainframeforge.com | bash
 ```
 
 For advanced installer configuration options, please refer to the [Installation](https://github.com/dusanmitrovic-dev/obsidian-vault-template/wiki/installation) wiki page.

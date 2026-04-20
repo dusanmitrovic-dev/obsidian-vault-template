@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.0] - 2026-04-19
 
 ### Added
+
 - Add dynamic release version badge (#46).
 - Add automated latest tag workflow (#48).
 - Implement inbox buffer logic for new notes (#50).
@@ -17,6 +18,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Implement daily notes configuration (#54).
 - Implement templates configuration (#56).
 - Add daily ledger template note (#58).
+
+### Changes
+
+- Migrate installer endpoint to custom domain: `vault.mainframeforge.com` (#62).
 
 ## [0.1.0] - 2026-03-31
 
