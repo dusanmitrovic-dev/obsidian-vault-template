@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Migrate installer endpoint to custom domain: `vault.mainframeforge.com` (#62).
 
+### Removed
+
+- Prune redundant `.gitkeep` files from parent directories (#66).
+
 ### Fixes
 
 - Enforce HTTPS protocol for branded installer endpoint (#64).
