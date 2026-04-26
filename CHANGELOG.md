@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixes
 
 - Enforce HTTPS protocol for branded installer endpoint (#64).
+- Update supported versions table in security policy (#68).
 
 ## [0.2.0] - 2026-04-19
 
