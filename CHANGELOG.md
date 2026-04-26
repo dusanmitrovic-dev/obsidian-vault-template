@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 
 - Prune redundant `.gitkeep` files from parent directories (#66).
+- Remove default docs label from issues templates (#69).
 
 ### Fixes
 
