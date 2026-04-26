@@ -2,7 +2,7 @@
 name: Bug Report
 about: Report a system defect, error or typo
 title: 'fix: '
-labels: fix, docs
+labels: fix
 assignees: ''
 ---
 

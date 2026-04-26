@@ -2,7 +2,7 @@
 name: Task / Enhancement
 about: Propose a new feature, config change, docs update, style change, or refactor
 title: 'feat: '
-labels: feat, docs
+labels: feat
 assignees: ''
 ---
 
