@@ -1,4 +1,6 @@
 {
-
+  "enabledCssSnippets": [
+    "file-explorer-font"
+  ]
 }
 

@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Add CSS snippet to fix file explorer underscore alignment (#71).
+
 ### Changes
 
 - Migrate installer endpoint to custom domain: `vault.mainframeforge.com` (#62).

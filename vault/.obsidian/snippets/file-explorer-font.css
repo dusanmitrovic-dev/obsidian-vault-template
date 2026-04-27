@@ -1,0 +1,6 @@
+.workspace-leaf-content[data-type="file-explorer"] .nav-folder-title-content,
+.workspace-leaf-content[data-type="file-explorer"] .nav-file-title-content {
+  font-family: "Ubuntu", "Inter", "Cantarell", "Noto Sans", "Segoe UI", "Roboto", system-ui, sans-serif;
+  font-size: 0.95em;
+}
+
