@@ -53,7 +53,7 @@ main() {
   if [ "$info_only" = true ]; then echo "$tag"; exit 0; fi
 
   for cmd in curl tar grep sed; do command -v "${cmd}" >/dev/null 2>&1 || error "Command '${cmd}' missing."; done
-    [ -d "$name" ] && error "Directory './$name' already exists."
+  [ -d "$name" ] && error "Directory './$name' already exists."
 
   SCR_TMP_DIR=$(mktemp -d)
   local url="https://github.com/${REPOSITORY}/archive/refs/$( [[ "$tag" == "main" ]] && echo "heads/main" || echo "tags/$tag" ).tar.gz"

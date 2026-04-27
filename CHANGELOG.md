@@ -10,6 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changes
 
 - Migrate installer endpoint to custom domain: `vault.mainframeforge.com` (#62).
+- Update supported versions table in security policy (#68).
+- Solve misleading indentation in bash installer script (#70).
 
 ### Removed
 
@@ -19,7 +21,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixes
 
 - Enforce HTTPS protocol for branded installer endpoint (#64).
-- Update supported versions table in security policy (#68).
 
 ## [0.2.0] - 2026-04-19
 
