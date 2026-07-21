@@ -15,4 +15,3 @@ Closes #<!-- Enter Issue Number Here -->
 - [ ] Acceptance Criteria met.
 - [ ] Style Guide respected.
 - [ ] Documentation updated.
-

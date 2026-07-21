@@ -37,4 +37,3 @@ assignees: ''
 <!-- (Optional) Provide only if the issue is related to Obsidian's app behavior. -->
 - **OS:** [e.g. Arch Linux].
 - **Obsidian Version:** [e.g. 1.12.4].
-

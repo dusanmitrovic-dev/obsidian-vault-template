@@ -22,4 +22,3 @@ Prepare repository for `vX.Y.Z` release.
 - [ ] Changelog updated in `main`.
 - [ ] Tag `vX.Y.Z` exists on remote.
 - [ ] GitHub Release published.
-

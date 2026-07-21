@@ -21,4 +21,3 @@ tags:
 ## Inbox
 <!-- Links to notes created today. -->
 - 
-

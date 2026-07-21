@@ -43,4 +43,3 @@ If this is not a feature, change the title prefix and label:
 - [ ] Criteria 1.
 - [ ] Criteria 2.
 - [ ] Documentation updated.
-

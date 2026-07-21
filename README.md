@@ -60,4 +60,3 @@ For advanced installer configuration options, please refer to the [Installation]
 - **Indexing:** `[00-99].` (e.g., `01.`).
 - **Naming Folders:** `snake_case`.
 - **Naming Files:** `kebab-case`.
-
