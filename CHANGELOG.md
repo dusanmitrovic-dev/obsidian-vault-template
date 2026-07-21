@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changes
+
+- Update template details and normalize trailing `\n` (#78).
+
 ## [0.3.0] - 2026-05-01
 
 ### Added
