@@ -1,5 +1,6 @@
 ## Objective
-<!-- Describe the context and goal of this PR (e.g. "Fix navigation bug", "Add CNAME") -->
+<!-- Describe the context and goal of this PR (e.g. "Fix navigation bug.", "Add CNAME.") -->
+
 <!-- (Optional) Use the block below for visual context: -->
 <!--
 <details>
@@ -15,4 +16,3 @@ Closes #<!-- Enter Issue Number Here -->
 - [ ] Acceptance Criteria met.
 - [ ] Style Guide respected.
 - [ ] Documentation updated.
-

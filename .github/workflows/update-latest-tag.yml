@@ -1,4 +1,4 @@
-name: Update Latest Tag
+name: Update The Latest Tag
 
 on:
   release:
@@ -17,4 +17,3 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git tag -f latest
           git push -f origin latest
-

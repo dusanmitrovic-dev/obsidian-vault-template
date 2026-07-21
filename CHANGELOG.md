@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changes
+
+- Update template details and normalize trailing `\n` (#78).
+
 ## [0.3.0] - 2026-05-01
 
 ### Added
@@ -76,4 +80,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [0.3.0]: https://github.com/dusanmitrovic-dev/obsidian-vault-template/compare/v0.2.0...v0.3.0
 [0.2.0]: https://github.com/dusanmitrovic-dev/obsidian-vault-template/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/dusanmitrovic-dev/obsidian-vault-template/releases/tag/v0.1.0
-

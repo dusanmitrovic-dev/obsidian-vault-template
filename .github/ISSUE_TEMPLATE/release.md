@@ -1,7 +1,7 @@
 ---
 name: Release
 about: Checklist for cutting a new version
-title: 'chore: prepare and cut release vX.Y.Z'
+title: 'chore(release): prepare and cut vX.Y.Z'
 labels: chore
 assignees: ''
 ---
@@ -22,4 +22,3 @@ Prepare repository for `vX.Y.Z` release.
 - [ ] Changelog updated in `main`.
 - [ ] Tag `vX.Y.Z` exists on remote.
 - [ ] GitHub Release published.
-

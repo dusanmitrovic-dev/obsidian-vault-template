@@ -42,4 +42,3 @@ Direct pushes to `main` branch are prohibited.
 
 ### 3. Release Cycle
 - We follow [Semantic Versioning](https://semver.org/) (SemVer).
-
