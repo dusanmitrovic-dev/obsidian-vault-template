@@ -1,7 +1,7 @@
 ---
 name: Task / Enhancement
 about: Propose a new feature, config change, docs update, style change, or refactor
-title: 'feat: '
+title: 'feat(scope): '
 labels: feat
 assignees: ''
 ---
@@ -21,6 +21,7 @@ If this is not a feature, change the title prefix and label:
 
 ### Context
 <!-- What problem are we trying to solve or improve? -->
+
 <!-- (Optional) Use the block below for visual context: -->
 <!--
 <details>

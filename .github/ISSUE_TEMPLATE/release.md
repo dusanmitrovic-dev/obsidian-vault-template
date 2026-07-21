@@ -1,7 +1,7 @@
 ---
 name: Release
 about: Checklist for cutting a new version
-title: 'chore: prepare and cut release vX.Y.Z'
+title: 'chore(release): prepare and cut vX.Y.Z'
 labels: chore
 assignees: ''
 ---
